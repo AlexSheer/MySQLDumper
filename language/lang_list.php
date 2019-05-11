@@ -13,6 +13,7 @@ GetLanguageArray();
 // *****************************************************************************
 // Language name in its own language.
 $lang['en']='English';
+$lang['ru']='Русский'; 
 $lang['de']='Deutsch';
 $lang['es']='Español';
 $lang['fr']='Français';
@@ -47,6 +48,11 @@ $lang['L_TOOLS1']['en']='Uninstall MySQLDumper';
 $lang['L_TOOLS2']['en']='Import existing configuration backup';
 $lang['L_TOOLS3']['en']='Upload configuration backup and import';
 $lang['L_TOOLS4']['en']='Download Configuration Backup';
+
+$lang['L_TOOLS1']['ru']='Удалить MySQLDumper';
+$lang['L_TOOLS2']['ru']='Импортировать конфигурацию';
+$lang['L_TOOLS3']['ru']='Загрузить и импортировать конфигурацию';
+$lang['L_TOOLS4']['ru']='Скачать конфигурацию'; 
 
 $lang['L_TOOLS1']['es']='Desinstalar MySQLDumper';
 $lang['L_TOOLS2']['es']='Importar configuración existente';
